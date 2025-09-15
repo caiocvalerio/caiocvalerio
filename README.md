@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### Minhas Estatísticas no GitHub
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
