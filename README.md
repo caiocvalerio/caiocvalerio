@@ -1,9 +1,9 @@
-# Olá, eu sou o Caio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Caio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <p align="left">
   <em>
-    Apaixonado por tecnologia, me graduei em Sistemas de Informações pela UFMT e agora estou cursando pós-graduação em Engenharia de Software. Quando não estou na frente do computador, gosto de equilibrar as coisas. Você provavelmente vai me encontrar com a cara enfiada em um bom livro, explorando novos mundos em algum jogo ou simplesmente maratonando alguns filmes.
+    I'm passionate about technology. I graduated with a degree in Information Systems from UFMT and am now taking a postgraduate course in Software Engineering. When I'm not at my computer, I like to keep things balanced. You'll probably find me with my nose buried in a good book, exploring new worlds in video games, or just binge-watching some movies.
   </em>
 </p>
 
@@ -23,7 +23,7 @@
 </p>
 
 ---
-### Tecnologias e Ferramentas
+### Tech Stack | Technologies & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
 
 ---
 
-### Minhas Estatísticas no GitHub
+### My GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
