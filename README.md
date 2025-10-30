@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,spring,react,nextjs,tailwind,mongodb,postgres,git,docker,linux,azure,terraform,ansible" /><br>
+    <img src="https://skillicons.dev/icons?i=java,ts,spring,react,nextjs,tailwind,mongodb,postgres,git,docker,linux,azure" /><br>
   </a>
 </p>
 
